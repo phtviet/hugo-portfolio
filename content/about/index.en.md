@@ -12,7 +12,7 @@ I was born and raised in Ho Chi Minh City, Vietnam, and currently based in Melbo
 
 When I began my job hunting process in data-related fields, I often feel lost and not good enough for certain roles that I'm interested in. 
 
-As a result, I decided to create this blog firstly as a learning experience into web development, albeit a simple one. Secondly, I aim to build and share my personal projects here that are related to Data Science for anyone who is interested in finding out what I do. Lastly, I also post my occasional ramblings here as blog posts in order to further improve my writing. &#128522;
+As a result, I decided to create this blog firstly as a learning experience into web development, albeit a simple one. Secondly, I aim to build and share my personal projects that are related to Data Science here for anyone interested in finding out what I do. Lastly, I also post my occasional ramblings here as blog posts in order to further improve my writing. &#128522;
 
 ## Education
 

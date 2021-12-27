@@ -56,9 +56,9 @@ I could not find it in my heart to tell my parents that I feel like I don't belo
 
 I could not find the strength to storm off on my own and do something completely on my own either. I didn't know what to do because I often felt I'm not good enough, without any special talents or particularly charming personalities.
 
-So, I put on a brave and kept doing what I was doing.
+So, I put on a brave face and kept on doing what I was doing.
 
-## A year gone by
+## A year passed by
 
 All I managed to find was a casual position at a fast food restaurant. Not exactly my dream place to work at, but I kept telling myself I will find a job that I prepared so hard at university for soon.
 
