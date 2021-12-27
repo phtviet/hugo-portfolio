@@ -30,9 +30,9 @@ I'm also a keen tennis and guitar player, as well as an avid gamer. Recently, I'
 
 ## My resume
 
-<object data="/pdfs/Resume_Viet_H_Pham.pdf" type="application/pdf" width="100%" height="1000px">
-    <embed src="/pdfs/Resume_Viet_H_Pham.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdfs/Resume_Viet_H_Pham.pdf">Download PDF</a>.</p>
+<object data="/pdf/Resume_Viet_H_Pham.pdf" type="application/pdf" width="100%" height="1000px">
+    <embed src="/pdf/Resume_Viet_H_Pham.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Resume_Viet_H_Pham.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 

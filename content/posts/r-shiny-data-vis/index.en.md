@@ -8,8 +8,8 @@ author: "Viet H. Pham"
 authorLink: "/about"
 description: "R Shiny Dashboard project."
 summary: "I made an interactive dashboard using R Shiny to explore the impact of Pupil-Teacher ratio on student performace around the world."
-featuredImage: "/images/project-img/rshiny-featured.png"
-featuredImagePreview: "/images/project-img/rshiny-preview.png"
+featuredImage: "/img/project-img/rshiny-featured.png"
+featuredImagePreview: "/img/project-img/rshiny-preview.png"
 
 tags: ["project","data visualisation", "R"]
 categories: ["Project"]

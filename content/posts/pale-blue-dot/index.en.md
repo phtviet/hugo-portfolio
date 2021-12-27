@@ -8,7 +8,7 @@ author: "Viet H. Pham"
 authorLink: "/about"
 description: "A post about Pale Blue Dot image."
 summary: "We went to the edge of the Solar System but discovered the Earth and our place in the universe instead."
-featuredImagePreview: "/images/blog-img/pale-blue-dot-preview.png"
+featuredImagePreview: "/img/blog-img/pale-blue-dot-preview.png"
 
 tags: ["blog","astronomy","cosmic perspective"]
 categories: ["Blog"]
