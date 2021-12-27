@@ -10,7 +10,7 @@ I was born and raised in Ho Chi Minh City, Vietnam, and currently based in Melbo
 
 ## Why I made this site
 
-As I began my job hunting process, I often feel lost and not good enough after reading the requirements for some roles that I'm interested in. Most if not all positions require minimum 2 years of experience, even for some junior roles.
+When I began my job hunting process in data-related fields, I often feel lost and not good enough for certain roles that I'm interested in. 
 
 As a result, I decided to create this blog firstly as a learning experience into web development, albeit a simple one. Secondly, I aim to build and share my personal projects here that are related to Data Science for anyone who is interested in finding out what I do. Lastly, I also post my occasional ramblings here as blog posts in order to further improve my writing. &#128522;
 
@@ -26,7 +26,7 @@ I see myself as a man of science and numbers, but I'm particularly interested in
 
 > "And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for." - John Keating, *Dead Poets Society*
 
-I'm also a keen tennis and guitar player. Recently, I made some efforts to learn French with Duolingo but it's not working out so far &#128517;
+I'm also a keen tennis and guitar player, as well as an avid gamer. Recently, I'm trying to learn French with Duolingo but it's not going well so far &#128517;
 
 ## My resume
 

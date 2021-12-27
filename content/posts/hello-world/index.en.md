@@ -103,6 +103,6 @@ Going back to the question that I started this post with, I want to ask it becau
 
 *December 2021 - Melbourne, Victoria.*
 
-*I only intended for my first blog post to be a short introduction to my personal site, yet here we are* &#128514;
+*I only intended for my first blog post to be a short introduction to my personal site, but it took an interesting turn* &#128517;
 
 *Thanks for reading! Check out my <a href="/categories/project" title="projects" target="_blank">projects</a> and <a href="/categories/blog" title="other posts" target="_blank">other posts</a> as well if you would like.*
