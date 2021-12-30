@@ -36,6 +36,10 @@ I'm also a keen tennis and guitar player, as well as an avid gamer. Recently, I'
     </embed>
 </object>
 
+## Contact me
+
+Please feel free to send me an email at phtviet@gmail.com, or call me on 0450 979 679, if you have any questions. 
+
 ---
 
 *Thanks for visiting my site! I share my projects and occasional ramblings here.*
