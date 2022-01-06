@@ -12,7 +12,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["blog"]
+tags: ["blog", "human perspective"]
 categories: ["Blog"]
 ---
 
@@ -24,9 +24,9 @@ A quite gloomy question to start off a blog post I must admit, and my first post
 
 It's just a thought that has been on my mind since these past few years. As everyone must have known by now, Covid-19 happened and the world was left scrambling. I was no different, although in retrospect, I had struggled with my life and career even before that.
 
-I was fresh out of my Bachelor degree in Economics and Finance at The University of Melbourne, full of lofty dreams about a good-paying and stable corporate job in Melbourne, Victoria. Instead, I got served a dose of reality.
+I was fresh out of my Bachelor degree in Economics and Finance at The University of Melbourne, full of lofty dreams about a good-paying and stable corporate job in Melbourne, Victoria. Instead, I got served a healthy dose of reality.
 
-You see, I'm not originally from Melbourne, Victoria. I was born and raised in Ho Chi Minh City, Vietnam. My family and I decided together 7 years ago that I would have gotten a better education here, and many other reasons. Long story short, I got on a plane and started a new chapter of my life, full of excitement and anxiety. 
+The thing is, I'm not originally from Melbourne, Victoria. I was born and raised in Ho Chi Minh City, Vietnam. My family and I decided together 7 years ago that I would have gotten a better education here, and many other reasons. Long story short, I got on a plane and started a new chapter of my life, full of excitement and anxiety. 
 
 But, even now after 7 years, to many I have met, as well as to me, I'm a foreigner in this city. I rarely feel at home or in my element. I don't have the mannerism or accent of an Aussie, and I definitely don't look the part &#129299;
 
@@ -93,11 +93,13 @@ Is that not pointless, you ask? I have to admit, it is.
 
 But, to me, that is the beauty of humanity. We struggle anyway with the full weight of knowing it is pointless at the end of the day. There is beauty and courage in this irony. 
 
-Some say ignorance is bliss. I don't think that is always the case. If we are not aware of how pointless it is, how can we blissfully marvel at our own beauty and courage?
+Some say ignorance is bliss. I don't think that is always the case. If we are not aware of how pointless it is, how can we blissfully marvel at our own foolishness, beauty and courage?
 
 ## Coming full circle
 
-Going back to the question that I started this post with, I want to ask it because I feel that making this blog is another meaningless endeavour of mine, and that these words might never get read by anyone else but me. But that is okay, because to struggle in the face of pointlessness is to be human, and I will try to be as human as I can for the rest of my life.
+Going back to the question that I started this post with, I want to ask it because I feel that making this blog is another meaningless endeavour of mine, and that these words might never get read by anyone else but me.
+
+But that is okay, because to struggle in the face of pointlessness is to be human, and I promised myself I will try to be as human as I can for the rest of my life.
 
 ---
 
@@ -105,4 +107,4 @@ Going back to the question that I started this post with, I want to ask it becau
 
 *I only intended for my first blog post to be a short introduction to my personal site, but it took an interesting turn* &#128517;
 
-*Thanks for reading! Check out my <a href="/categories/project" title="projects" target="_blank">projects</a> and <a href="/categories/blog" title="other posts" target="_blank">other posts</a> as well if you would like.*
+*Thanks for reading! Check out my <a href="/categories/project" title="projects" target="_blank">projects</a> and <a href="/categories/blog" title="other blog posts" target="_blank">other blog posts</a> as well if you would like.*

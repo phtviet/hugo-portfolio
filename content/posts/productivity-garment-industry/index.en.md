@@ -2604,3 +2604,9 @@ Mehrad Mahmoudian (2015, Jan 15). *Extracting coefficient variable names from gl
 https://stackoverflow.com/questions/27801130/extracting-coefficient-variable-names-from-glmnet-into-a-data-frame
 
 Singh, D. (2019, Nov 12). *Linear, Lasso, and Ridge Regression with R*. Retrieved from https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r
+
+---
+
+*December 2021 - Melbourne, Victoria.*
+
+*Thanks for reading! Check out my <a href="/categories/project" title="other projects" target="_blank">other projects</a> and <a href="/categories/blog" title="blog posts" target="_blank">blog posts</a> as well if you would like.*

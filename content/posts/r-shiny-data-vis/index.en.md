@@ -11,7 +11,7 @@ summary: "I made an interactive dashboard using R Shiny to explore the impact of
 featuredImage: "/img/project-img/rshiny-featured.png"
 featuredImagePreview: "/img/project-img/rshiny-preview.png"
 
-tags: ["project","data visualisation", "R"]
+tags: ["project", "data visualisation", "R"]
 categories: ["Project"]
 ---
 
@@ -55,4 +55,4 @@ If you are interested in interacting with the dashboard, you can check it out by
 
 *December 2021 - Melbourne, Victoria.*
 
-*Thanks for reading! Check out my <a href="/categories/project" title="projects" target="_blank">projects</a> and <a href="/categories/blog" title="other posts" target="_blank">other posts</a> as well if you would like.*
+*Thanks for reading! Check out my <a href="/categories/project" title="other projects" target="_blank">other projects</a> and <a href="/categories/blog" title="blog posts" target="_blank">blog posts</a> as well if you would like.*

@@ -10,7 +10,7 @@ description: "A post about Pale Blue Dot image."
 summary: "We went to the edge of the Solar System but discovered the Earth and our place in the universe instead."
 featuredImagePreview: "/img/blog-img/pale-blue-dot-preview.png"
 
-tags: ["blog","astronomy","cosmic perspective"]
+tags: ["blog", "cosmic perspective"]
 categories: ["Blog"]
 ---
 
