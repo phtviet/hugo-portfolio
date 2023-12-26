@@ -4,7 +4,7 @@ title: "Narrative Data Visualisation with R Shiny Interactive Dashboard"
 date: 2021-12-20
 lastmod: 2021-12-20
 draft: false
-author: "Viet H. Pham"
+author: "Viet Pham"
 authorLink: "/about"
 description: "R Shiny Dashboard project."
 summary: "I made an interactive dashboard using R Shiny to explore the impact of Pupil-Teacher ratio on student performace around the world."

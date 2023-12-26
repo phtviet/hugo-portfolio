@@ -10,23 +10,21 @@ I was born and raised in Ho Chi Minh City, Vietnam, and currently based in Melbo
 
 ## Why I made this site
 
-When I began my job hunting process in data-related fields, I often feel lost and not good enough for certain roles that I'm interested in. 
-
-As a result, I decided to create this blog firstly as a learning experience into web development, albeit a simple one. Secondly, I aim to build and share my personal projects that are related to Data Science here for anyone interested in finding out what I do. Lastly, I also post my occasional ramblings here as blog posts in order to further improve my writing. &#128522;
+I created this blog firstly as a learning experience into web development, albeit a simple one. Secondly, I aim to build and share my personal projects that are related to Data Science here for anyone interested in finding out what I do. Lastly, I also post my writings here as blog posts to share with the world. If you happen to come across and enjoy them, I'm immensely grateful! &#128522;
 
 ## Education
 
-After completing a Bachelor degree in Economics and Finance at University of Melbourne in December 2018, I'm now working towards a Master degree in Data Science at Monash University, graduating in July 2022. 
+After completing a Bachelor degree in Economics and Finance at University of Melbourne in December 2018, I'm now working towards a Master degree in Data Science at Monash University, graduating in May 2024. 
 
-I hope to be able to combine these two different areas (Data Science and Economics) and create projects that are interesting and insightful.
+I hope to be able to combine these two different areas (Data Science and Economics) and create projects and writings that are interesting and insightful.
 
 ## Personal interests
 
-I see myself as a man of science and numbers, but I'm particularly interested in reading, discussing and immersing in anything related to the creative arts and social sciences.
+I like to read, and learn new things outside of my comfort zone.
 
 > "And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for." - John Keating, *Dead Poets Society*
 
-I'm also a keen tennis and guitar player, as well as an avid gamer. Recently, I'm trying to learn French with Duolingo but it's not going well so far &#128517;
+I also love to play tennis, and the guitar. 
 
 ## My resume
 
@@ -38,8 +36,8 @@ I'm also a keen tennis and guitar player, as well as an avid gamer. Recently, I'
 
 ## Contact me
 
-Please feel free to send me an email at phtviet@gmail.com, or call me on 0450 979 679, if you have any questions. 
+Please feel free to send me an email at phtviet@gmail.com, if you have any questions. 
 
 ---
 
-*Thanks for visiting my site! I share my projects and occasional ramblings here.*
+*Thanks for visiting my site! I share my projects and writings here.*

@@ -4,7 +4,7 @@ title: "10 Short but Compelling Facts about the Universe"
 date: 2022-01-04
 lastmod: 2022-01-04
 draft: false
-author: "Viet H. Pham"
+author: "Viet Pham"
 authorLink: "/about"
 description: "A post about 10 short but compelling facts about the universe that I found to be fun and inspiring"
 summary: "We all love fun facts because they are short and memorable. So here are 10 short and memorable facts about the universe that I gathered over the years. I find these to be both fun and inspiring, and I hope you do too."

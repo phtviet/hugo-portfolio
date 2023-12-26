@@ -4,7 +4,7 @@ title: "Hello, world!"
 date: 2021-12-15
 lastmod: 2021-12-15
 draft: false
-author: "Viet H. Pham"
+author: "Viet Pham"
 authorLink: "/about"
 description: "Obligatory first post of a blog."
 summary: "Why we do things when they don't matter in the end and other questions. My first post on this site!"

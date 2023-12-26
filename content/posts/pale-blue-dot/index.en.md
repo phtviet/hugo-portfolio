@@ -4,7 +4,7 @@ title: "Pale Blue Dot"
 date: 2021-12-19
 lastmod: 2021-12-19
 draft: false
-author: "Viet H. Pham"
+author: "Viet Pham"
 authorLink: "/about"
 description: "A post about Pale Blue Dot image."
 summary: "We went to the edge of the Solar System but discovered the Earth and our place in the universe instead."

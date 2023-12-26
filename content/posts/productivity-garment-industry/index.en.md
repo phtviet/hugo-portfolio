@@ -4,7 +4,7 @@ title: "Exploratory Data Analysis and Prediction: Productivity of Garment Indust
 date: 2021-12-22
 lastmod: 2021-12-22
 draft: false
-author: "Viet H. Pham"
+author: "Viet Pham"
 authorLink: "/about"
 description: "A post about exploring and predicting productivity of garment employees in Bangladesh."
 summary: "I created a Jupyter notebook to explore and analyse a dataset containing important attributes of the garment manufacturing process and the productivity of the employees."

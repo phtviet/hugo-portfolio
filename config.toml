@@ -1,4 +1,4 @@
-baseURL = "https://vietpham.com"
+baseURL = "https://viethpham.com"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -8,7 +8,7 @@ theme = "loveit"
 
 # website title
 # 网站标题
-title = "Viet H. Pham"
+title = "Viet Pham"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -34,8 +34,6 @@ disableLanguages = ['fr', 'zh-cn']
     hasCJKLanguage = false
     # default amount of posts in each pages
     paginate = 12
-    # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -101,13 +99,15 @@ disableLanguages = ['fr', 'zh-cn']
         weight = 7
     [languages.en.params]
       # site description
-      description = "Personal blog of Viet H. Pham, where personal projects and occasional ramblings are posted. I'm an aspiring data scientist and hobby programmer, and hobby programmer, particularly interested in the intersection between data science and economics."
+      description = "Personal blog of Viet Pham, where my personal projects and writings are posted. I'm an aspiring data scientist and hobby programmer, particularly interested in the intersection between data science, economics, and politics."
       # site keywords
       keywords = ["Blog", "Data Science", "Programming", "Economics"]
+      # [UA-XXXXXXXX-X] google analytics code
+      googleAnalytics = ""
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "Viet H. Pham"
+        title = "Viet Pham"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -149,11 +149,11 @@ disableLanguages = ['fr', 'zh-cn']
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/img/avatar.png"
+          avatarURL = "/img/avatar1.jpg"
           # title shown in home page (HTML format is supported)
           title = "G'day, I'm Viet"
           # subtitle shown in home page
-          subtitle = "An aspiring data scientist, and hobby programmer, particularly interested in the intersection between data science and economics."
+          subtitle = "An aspiring data scientist, and hobby programmer, particularly interested in the intersection between data science, economics, and politics."
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -244,8 +244,6 @@ disableLanguages = ['fr', 'zh-cn']
     hasCJKLanguage = true
     # 默认每页列表显示的文章数目
     paginate = 12
-    # [UA-XXXXXXXX-X] 谷歌分析代号
-    googleAnalytics = ""
     # 版权描述，仅仅用于 SEO
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # 菜单配置
@@ -304,6 +302,8 @@ disableLanguages = ['fr', 'zh-cn']
       description = "关于 LoveIt 主题"
       # 网站关键词
       keywords = ["Theme", "Hugo"]
+      # [UA-XXXXXXXX-X] 谷歌分析代号
+      googleAnalytics = ""
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
@@ -442,8 +442,6 @@ disableLanguages = ['fr', 'zh-cn']
     hasCJKLanguage = false
     # default amount of posts in each pages
     paginate = 12
-    # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -500,6 +498,8 @@ disableLanguages = ['fr', 'zh-cn']
       description = "À propos du thème LoveIt"
       # site keywords
       keywords = ["Thème", "Hugo"]
+      # [UA-XXXXXXXX-X] google analytics code
+      googleAnalytics = ""
       # App icon config
       [languages.fr.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -665,7 +665,7 @@ disableLanguages = ['fr', 'zh-cn']
       logo = ""
       # title name
       # 标题名称
-      name = "Viet H. Pham"
+      name = "Viet Pham"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -953,7 +953,7 @@ disableLanguages = ['fr', 'zh-cn']
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "Viet H. Pham"
+        name = "Viet Pham"
         logoUrl = ""
 
   # TypeIt config
@@ -961,7 +961,7 @@ disableLanguages = ['fr', 'zh-cn']
   [params.typeit]
     # typing speed between each step (measured in milliseconds)
     # 每一步的打字速度 (单位是毫秒)
-    speed = 40
+    speed = 30
     # blinking speed of the cursor (measured in milliseconds)
     # 光标的闪烁速度 (单位是毫秒)
     cursorSpeed = 1000
@@ -1081,7 +1081,7 @@ disableLanguages = ['fr', 'zh-cn']
 # Author config
 # 作者配置
 [author]
-  name = "Viet H. Pham"
+  name = "Viet Pham"
   email = "phtviet@gmail.com"
   link = "/about"
 
@@ -1130,4 +1130,3 @@ disableLanguages = ['fr', 'zh-cn']
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
